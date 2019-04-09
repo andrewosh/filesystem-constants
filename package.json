@@ -1,5 +1,5 @@
 {
-  "name": "fs-constants",
+  "name": "filesystem-constants",
   "version": "1.0.0",
   "description": "Inlined FS constants without the FS module dependency.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewosh/fs-constants.git"
+    "url": "git+https://github.com/andrewosh/filesystem-constants.git"
   },
   "keywords": [
     "hyperdrive",
@@ -17,7 +17,7 @@
   "author": "Andrew Osheroff <andrewosh@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrewosh/fs-constants/issues"
+    "url": "https://github.com/andrewosh/filesystem-constants/issues"
   },
-  "homepage": "https://github.com/andrewosh/fs-constants#readme"
+  "homepage": "https://github.com/andrewosh/filesystem-constants#readme"
 }
